@@ -1,4 +1,4 @@
-// // // // // \\ \\ \\ \\ \\ \\ \\ POTRZEBNE BIBLIOTEKI 
+﻿// // // // // \\ \\ \\ \\ \\ \\ \\ POTRZEBNE BIBLIOTEKI 
 #include <iostream>
 #include <string>
 #include <windows.h>
